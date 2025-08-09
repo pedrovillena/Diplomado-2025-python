@@ -18,3 +18,9 @@ This is a course in python for PUCP
 2. Openheimer
 3. Harry Potter
 4. Long Legs
+
+## Actors
+1. Denzel Washington
+2. Edward Norton
+3. Liam Neeson
+4. Scarlet Johanson
