@@ -30,3 +30,5 @@ This is a course in python for PUCP
 2. Markhan
 3. San Agustin
 4. Trilce
+5. Guadalupe
+6. Buen Pastor
