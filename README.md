@@ -24,3 +24,9 @@ This is a course in python for PUCP
 2. Edward Norton
 3. Liam Neeson
 4. Scarlet Johanson
+
+## Schools
+1. CET34
+2. Markhan
+3. San Agustin
+4. Trilce
